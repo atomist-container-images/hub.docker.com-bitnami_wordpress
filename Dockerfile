@@ -98,6 +98,3 @@ FROM bitnami/wordpress:5.9.2
 
 # Tags: 5.9.2-debian-10-r26
 FROM bitnami/wordpress:5.9.2-debian-10-r26
-
-# Tags: 5.9.2-debian-10-r25
-FROM bitnami/wordpress:5.9.2-debian-10-r25
